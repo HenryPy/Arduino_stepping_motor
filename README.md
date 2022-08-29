@@ -12,5 +12,8 @@
 ### 两种上料程序,其中一种差急停和暂停没有写,开新项目了,等有时间再完善
 
 
-## 3包package
+## 3 包package
 - 程序只用了一个多线程,需要导入这个包
+## 4 图片
+![单片机](https://user-images.githubusercontent.com/90136935/187114495-7a3c7530-99ef-401a-9704-f51957c50d09.jpg)
+![电机](https://user-images.githubusercontent.com/90136935/187114502-e00c2999-d3e6-4bfb-b4c0-3660cff23ebe.jpg)
